@@ -1742,5 +1742,12 @@
     "dialCode": "358",
     "priority": 1,
     "areaCodes": null
+  },
+  {
+    "name": "Other",
+    "iso2": "xx",
+    "dialCode": "",
+    "priority": 1,
+    "areaCodes": null
   }
 ]
